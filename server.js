@@ -1,9 +1,9 @@
 const express = require("express");
-const port = 3000;
+const port = 6969;
 const app = express();
 
 app.get("/", (req, res) =>{
-    res.status(200).send("This api is so unuseful")
+    res.status(200).send("This api is so useful")
 })
 
 app.listen(port, () => {
