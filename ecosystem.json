@@ -9,7 +9,7 @@
         "host" : ["188.166.75.251"],
         "ref"  : "origin/master",
         "repo" : "https://github.com/zazzzi/test.git",
-        "path" : "/projekt/",
+        "path" : "~/projekt/zazzi",
         "post-deploy" : "npm install"
        }
     }
